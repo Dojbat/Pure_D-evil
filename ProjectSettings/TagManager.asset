@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Item
+  - Demon
+  - Object
+  - Girl
+  - Waypoints
+  - Enemy
+  - Puzzle_Answer
+  - Wrong_Answer
+  - CheckPoint
+  - enemy
+  - attacking
+  - Ball
+  - ground
+  - green
+  - hitbox
+  - Dgreen
+  - Dorange
+  - Dpurple
+  - Dred
+  - Dblue
+  - Dyellow
+  - armor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enemy
+  - Water
+  - UI
+  - BG
+  - Items
+  - Girl
+  - Demon
+  - enemy
+  - Particle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG1
+    uniqueID: 2589952691
+    locked: 0
+  - name: BG2
+    uniqueID: 245938193
+    locked: 0
+  - name: BG3
+    uniqueID: 3507206707
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: FG
+    uniqueID: 2110715939
+    locked: 0
